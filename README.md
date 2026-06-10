@@ -8,7 +8,7 @@ A comprehensive, step-by-step engineering deployment demonstrating the migration
 
 Below is the structural diagram illustrating the secure network paths, data dumps, and secure handshake operations executed to safely transfer database engines within the AWS infrastructure:
 
-![Project Architecture Diagram](./images/chatgpt_architecture.png)
+![Project Architecture Diagram](./images/architecture.png)
 
 ---
 
